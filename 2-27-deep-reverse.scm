@@ -1,0 +1,6 @@
+(define (deep-reverse list)
+  (define (reverse-iter rest result)
+    (cond ((null? rest) result)
+          ((list? (car rest)) (reverse-iter (cdr rest) (cons (deep-reverse (car rest)) result)))
+          (else (reverse-iter (cdr rest) (cons (car rest) result)))))
+  (reverse-iter list '()))

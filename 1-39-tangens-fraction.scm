@@ -1,0 +1,7 @@
+(define (tan-cf x k)
+  (define (tan-cf-rec i)
+    (if (> i k)
+        (/ (* x x) (+ (* i 2) 1))
+        (- (+ (* i 2) 1)
+           (/ (* x x) (tan-cf-rec (+ i 1))))))
+  (/ x (tan-cf-rec 0)))

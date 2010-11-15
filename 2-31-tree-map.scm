@@ -1,0 +1,6 @@
+(define (tree-map fn tree)
+  (define (rec node)
+    (cond ((null? node) node)
+          ((list? node) (map rec node))
+          (else (fn node))))
+  (map rec tree))
