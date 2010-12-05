@@ -18,10 +18,10 @@
 (define (parse-noun-phrase)
   (define (maybe-extend noun-phrase)
     (amb noun-phrase
-         (maybe-extend (list 'noun-phrase
-                             noun-phrase
-                             (parse-prepositional-phrase)))))
-    (maybe-extend (parse-simple-noun-phrase)))
+          (maybe-extend (list 'noun-phrase
+                              noun-phrase
+                              (parse-prepositional-phrase)))))
+  (maybe-extend (parse-simple-noun-phrase)))
 
 (define (parse-simple-noun-phrase)
   (list 'simple-noun-phrase
@@ -31,9 +31,9 @@
 (define (parse-verb-phrase)
   (define (maybe-extend verb-phrase)
     (amb verb-phrase
-         (maybe-extend (list 'verb-phrase
-                             verb-phrase
-                             (parse-prepositional-phrase)))))
+          (maybe-extend (list 'verb-phrase
+                              verb-phrase
+                              (parse-prepositional-phrase)))))
   (maybe-extend (parse-word verbs)))
 
 (define (parse-prepositional-phrase)
