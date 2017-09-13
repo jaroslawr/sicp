@@ -4,13 +4,14 @@
 
 I recommend using [Racket](https://racket-lang.org/).
 
-Racket is a programming language, and also a programming environment
-capable of running many different programming languages that are not
-Racket. The main Racket language is based on Scheme, which is what was
-originally used in the book, but now it is a language on its own with
-[some incompatible changes and extensions](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme).
+Racket is a programming language, and at the same time a programming
+environment capable of running many different programming languages
+that are not Racket. The main Racket language is based on Scheme,
+which is what was originally used in the book, but now it is a
+language on its own with [some incompatible changes and
+extensions](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme).
 Fortunately, since SICP very purposefully uses a spartan subset of
-Scheme, the code in the book is trivial to port to the Racket
+Scheme, the code from the book is trivial to port to the Racket
 language.
 
 Racket has the advantage of being very actively maintained and
