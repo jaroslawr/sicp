@@ -18,9 +18,9 @@ Racket has the advantage of being very actively maintained and
 developed, making it easier to install and use by people used to
 modern programming environments, in comparison to "standard" Scheme
 implementations. Racket is [capable of running programs in "standard"
-Scheme](https://docs.racket-lang.org/r5rs/running.html), but this
-seems to just complicate everything - REPL is worse, it is not clear
-how to unit test your code etc., so I recommend sticking to both
+Scheme](https://docs.racket-lang.org/r5rs/running.html), but this just
+seems to complicate everything - REPL is worse, it is not clear how to
+unit test your code etc., so I recommend sticking to both
 Racket-the-environment and Racket-the-language.
 
 You could also use [Clojure](https://clojure.org/), or a modern Common
