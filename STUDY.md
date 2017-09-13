@@ -29,6 +29,12 @@ Scheme](https://www.gnu.org/software/mit-scheme/) was used in the
 6.001 class for which SICP was written, but it does not see the kind
 of active development Racket does.
 
+Note that the point of the book is to implement many sophisticated
+programming concepts like objects, lazy evaluation, logic programming
+etc. using the simplest means like `let`, `lambda`, `cons`, `car`,
+`cdr`, so I purposefully do not use any sophisticated Racket language
+features in my solutions.
+
 ## Additional resources
 
 * [Complete book contents online](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
