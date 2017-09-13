@@ -47,25 +47,39 @@ on Racket extensions for text editors.
 
 ## Background knowledge from mathematics and electronics
 
-The book uses mathematics and electronics for a lot of the examples,
-without giving any background knowledge on those topics, which might
-scare some people off. My most important advice on this: **do not
-panic**. Only a very cursory understanding of those disciplines is
-required for most of the exercises, you do not have to do a lot of
-additional study, although some background reading might be helpful
-and increase appreciation. I recommend lcamtuf's [Concise electronics
-for geeks](http://lcamtuf.coredump.cx/electronics/) for electronics,
-and 3Blue1Brown [Essence of calculus video
+The book uses mathematics and electronics for a lot of the example
+programs, without giving any background knowledge on those topics,
+which might scare some people off. My most important advice on this:
+**do not panic**. Only a very cursory understanding of those
+disciplines is required for most of the exercises, you do not have to
+do a lot of additional study, although some background reading will
+certainly increase appreciation. I recommend lcamtuf's [Concise
+electronics for geeks](http://lcamtuf.coredump.cx/electronics/) for
+electronics, and 3Blue1Brown [Essence of calculus video
 series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-for mathematics, as the quickest way to get the necessary background.
+for mathematics, as the quickest way to get the necessary
+background.
 
-If you actually enjoy learning about those topics, I highly recommend the books
-[What is
+On your first pass through the book, I would recommend trying to
+maintain a steady tempo, even if this means skipping some exercises or
+solving them without fully understanding all the details, otherwise
+you might loose motivation. You might do a second, third etc. run
+immediately, or months or years later. This is the [spiral
+approach](https://www.av8n.com/physics/spiral-approach.htm) to
+learning.
+
+If you actually enjoy learning about those topics, I recommend
+eventually also reading the books [What is
 mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
 and [The art of
 electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/ref=dp_ob_title_bk)
 which are the closest SICP-equivalents for their respective fields,
-being the great inspiring books they are.
+being the great inspiring books they are. For me a big part of the
+value from studying SICP was the further interests it sparked and the
+broad intellectual perspective it gave me on all of those topics.
+
+Finally, appreciate that some of the book themes apply to mathematics
+and electronics as well as they apply to computer programming. 
 
 ## Additional resources
 
