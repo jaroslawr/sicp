@@ -64,26 +64,27 @@ On your first pass through the book, I would recommend trying to
 maintain a steady tempo, even if this means skipping some exercises or
 solving them without fully understanding all the details. Ideas
 typically form a graph in which many nodes are mutally dependent, and
-so you should not expect to learn everything with a single linear run
-through any serious textbook, and by trying too hard to do this you
-might loose motivation. A second, third etc. run immediately, or
-months or years later will make everything make much more sense
-without anywhere as much effort. This is the [spiral
+so you should not expect to learn everything at once when going
+through a textbook which is by necessity linear - by trying too hard
+to do this you will only loose motivation. A second and third pass
+will make everything make much more sense without anywhere as much
+effort, especially having spent some months or years in between
+working and learning on anything related to the book topics. This is
+the [spiral
 approach](https://www.av8n.com/physics/spiral-approach.htm) to
 learning.
 
-If you actually enjoy learning about those topics, I recommend
-eventually also reading the books [What is
+For me a big part of the value from studying SICP was the further
+interests it sparked and the broad intellectual perspective it gave me
+on all of those topics. It is worth noticing that some of the book
+themes apply to mathematics and electronics as well as they apply to
+computer programming. If you actually enjoy learning about those
+topics, I recommend eventually also reading the books [What is
 mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
 and [The art of
 electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/ref=dp_ob_title_bk)
-which are the closest SICP-equivalents for their respective fields,
-being the great inspiring books they are. For me a big part of the
-value from studying SICP was the further interests it sparked and the
-broad intellectual perspective it gave me on all of those topics.
-
-Finally, appreciate that some of the book themes apply to mathematics
-and electronics as well as they apply to computer programming. 
+which are the closest to being SICP-equivalents for their respective
+fields.
 
 ## Additional resources
 
