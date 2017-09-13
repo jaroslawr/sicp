@@ -1,4 +1,4 @@
-# SICP study guide
+# SICP Study Guide
 
 ## Choosing a language and interpreter
 
