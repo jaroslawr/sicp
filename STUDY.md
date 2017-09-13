@@ -57,9 +57,9 @@ and increase appreciation. I recommend lcamtuf's [Concise electronics
 for geeks](http://lcamtuf.coredump.cx/electronics/) for electronics,
 and 3Blue1Brown [Essence of calculus video
 series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-for mathematics, as the quickest way to get the background necessary.
+for mathematics, as the quickest way to get the necessary background.
 
-If you enjoy learning about those topics, I highly recommend the books
+If you actually enjoy learning about those topics, I highly recommend the books
 [What is
 mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
 and [The art of
