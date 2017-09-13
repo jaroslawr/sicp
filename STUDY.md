@@ -37,11 +37,35 @@ etc. using the simplest means like `let`, `lambda`, `cons`, `car`,
 features in my solutions. I do make use of the libraries, for example
 for unit tests.
 
+## Background knowledge from mathematics and electronics
+
+The book uses mathematics and electronics for a lot of the examples,
+without giving any background knowledge on those topics, which might
+scare some people off. My most important advice on this: **do not
+panic**. Only a very cursory understanding of those disciplines is
+required for most of the exercises, you do not have to do a lot of
+additional study, although some background reading might be helpful
+and increase appreciation. I recommend lcamtuf's [Concise electronics
+for geeks](http://lcamtuf.coredump.cx/electronics/) for electronics,
+and 3Blue1Brown [Essence of calculus video
+series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+for mathematics, as the quickest way to get the background necessary.
+
+If you enjoy learning about those topics, I highly recommend the books
+[What is
+mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
+and [The art of
+electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/ref=dp_ob_title_bk)
+which are the closest SICP-equivalents for their respective fields,
+being the great inspiring books they are.
+
 ## Additional resources
 
 * [Complete book contents online](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 * [Differences between Racket and Scheme](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme), explained on StackOverflow
+
+* [6.001 OpenCourseware class page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/), based on the MIT class the book was originally written for
 
 * [1986 video lectures for the first edition of the book](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/), by Abelson & Sussman, the authors of the book
 
@@ -56,3 +80,7 @@ for unit tests.
 * [Prof. Sussman's reading list](http://aurellem.org/thoughts/html/sussman-reading-list.html) with many positions more or less related to SICP.
 
 * [We Really Don't Know How to Compute](https://www.youtube.com/watch?v=O3tVctB_VSU), [The Role of Programming](https://www.youtube.com/watch?v=arMH5GjBwUQ), and [The Legacy of Computer Science](https://www.youtube.com/watch?v=6J1vRrozgBg) - lectures by Prof. Sussman's given on various occasions, touching upon some of the themes from SICP.
+
+* [Essence of calculus video series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - mathematics background reading
+
+* [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/) - electronics background reading
