@@ -37,6 +37,14 @@ etc. using the simplest means like `let`, `lambda`, `cons`, `car`,
 features in my solutions. I do make use of the libraries, for example
 for unit tests.
 
+## Choosing an editor/IDE
+
+Racket includes an IDE called
+[DrRacket](http://docs.racket-lang.org/quick/index.html), and has very
+good
+[documentation](https://docs.racket-lang.org/guide/other-editors.html)
+on Racket extensions for text editors.
+
 ## Background knowledge from mathematics and electronics
 
 The book uses mathematics and electronics for a lot of the examples,
