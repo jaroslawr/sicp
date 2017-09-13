@@ -88,7 +88,7 @@ fields.
 
 ## Additional resources
 
-* [Online version of the book](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+* [Online version of the SICP book](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 * [Differences between Racket and Scheme](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme), explained on StackOverflow
 
