@@ -7,16 +7,19 @@ I recommend using [Racket](https://racket-lang.org/).
 Racket is a programming language, and also a programming environment
 capable of running many different programming languages that are not
 Racket. The main Racket language is based on Scheme, which is what was
-originally used in the book, but now it is a language on its
-own. Fortunately, since SICP very purposefully uses a spartan subset
-of Scheme, the code in the book is trivial to port to the Racket
+originally used in the book, but now it is a language on its own with
+[some incompatible changes and extensions](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme).
+Fortunately, since SICP very purposefully uses a spartan subset of
+Scheme, the code in the book is trivial to port to the Racket
 language.
 
 Racket has the advantage of being very actively maintained and
-developed, making it easy to work with it in a modern computing
-environment, e.g. it provides a unit testing framework and good GUI
-capabilities. You could use the Scheme language in the Racket
-environment but I do not see much advantage in doing this.
+developed, making it easier to install and use by people used to
+modern programming environments, in comparison to "standard" Scheme
+implementations. Racket is capable of running programs in "standard"
+Scheme, but this e.g. complicates unit testing your code, so I
+recommend sticking to both Racket-the-environment and
+Racket-the-language.
 
 You could also use [Clojure](https://clojure.org/), or a modern Common
 Lisp implementation like [SBCL](http://www.sbcl.org/), but the code
@@ -30,6 +33,8 @@ of active development Racket does.
 * [Complete book contents online](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 * [Racket](https://racket-lang.org/)
+
+* [Differences between Racket and Scheme](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme), explained on StackOverflow
 
 * [1986 video lectures for the first edition of the book](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/), by Abelson & Sussman, the authors of the book
 
