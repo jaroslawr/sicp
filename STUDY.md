@@ -69,7 +69,7 @@ through a textbook which is by necessity linear - by trying too hard
 to do this you will only loose motivation. A second and third pass
 will make everything make much more sense without anywhere as much
 effort, especially having spent some months or years in between
-working and learning on anything related to the book topics. This is
+working on or learning anything related to the book topics. This is
 the [spiral
 approach](https://www.av8n.com/physics/spiral-approach.htm) to
 learning.
