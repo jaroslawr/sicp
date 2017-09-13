@@ -32,8 +32,9 @@ of active development Racket does.
 Note that the point of the book is to implement many sophisticated
 programming concepts like objects, lazy evaluation, logic programming
 etc. using the simplest means like `let`, `lambda`, `cons`, `car`,
-`cdr`, so I purposefully do not use any sophisticated Racket language
-features in my solutions.
+`cdr`, so I purposefully do not use any advanced Racket language
+features in my solutions. I do make use of the libraries, for example
+for unit tests.
 
 ## Additional resources
 
