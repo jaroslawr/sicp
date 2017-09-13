@@ -86,9 +86,11 @@ electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/
 which are the closest to being SICP-equivalents for their respective
 fields.
 
-## Additional resources
+## Generally useful resources
 
 * [Online version of the SICP book](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+
+* [Beautiful unofficial online version of the book](http://sarabander.github.io/sicp/)
 
 * [Differences between Racket and Scheme](https://stackoverflow.com/questions/3345397/how-is-racket-different-from-scheme), explained on StackOverflow
 
