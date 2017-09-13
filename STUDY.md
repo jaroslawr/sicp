@@ -106,8 +106,8 @@ fields.
 
 * [Prof. Sussman's reading list](http://aurellem.org/thoughts/html/sussman-reading-list.html) with many positions more or less related to SICP.
 
-* [We Really Don't Know How to Compute](https://www.youtube.com/watch?v=O3tVctB_VSU), [The Role of Programming](https://www.youtube.com/watch?v=arMH5GjBwUQ), and [The Legacy of Computer Science](https://www.youtube.com/watch?v=6J1vRrozgBg) - lectures by Prof. Sussman's given on various occasions, touching upon some of the themes from SICP.
+* [We Really Don't Know How to Compute](https://www.youtube.com/watch?v=O3tVctB_VSU), [The Role of Programming](https://www.youtube.com/watch?v=arMH5GjBwUQ), and [The Legacy of Computer Science](https://www.youtube.com/watch?v=6J1vRrozgBg), lectures by Prof. Sussman's given on various occasions, touching upon some of the themes from SICP.
 
-* [Essence of calculus video series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - mathematics background reading
+* [Essence of calculus video series](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), mathematics background reading
 
-* [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/) - electronics background reading
+* [Concise electronics for geeks](http://lcamtuf.coredump.cx/electronics/), electronics background reading
