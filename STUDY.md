@@ -80,9 +80,9 @@ on all of those topics. It is worth noticing that some of the book
 themes apply to mathematics and electronics as well as they apply to
 computer programming. If you actually enjoy learning about those
 topics, I recommend eventually also reading the books [What is
-mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
-and [The art of
-electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/ref=dp_ob_title_bk)
+Mathematics?](https://www.amazon.com/Mathematics-Elementary-Approach-Ideas-Methods/dp/0195105192)
+and [The Art of
+Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266/ref=dp_ob_title_bk)
 which are the closest to being SICP-equivalents for their respective
 fields.
 
