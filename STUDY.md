@@ -51,8 +51,8 @@ for unit tests.
 
 * [Eli Bendersky's solutions and notes on the book](http://eli.thegreenplace.net/tag/sicp)
 
-* [Prof. Sussman's "Adventures in Advanced Symbolic Programming" class notes](https://groups.csail.mit.edu/mac/users/gjs/6.945/), building and extending on the material in SICP. Make sure to check out the readings and pdf's for programming assignments, plenty of interesting stuff there.
+* [Adventures in Advanced Symbolic Programming](https://groups.csail.mit.edu/mac/users/gjs/6.945/), Prof. Sussman's class extending upon the material in SICP. Make sure to check out the readings and pdf's for programming assignments, plenty of interesting stuff there.
 
 * [Prof. Sussman's reading list](http://aurellem.org/thoughts/html/sussman-reading-list.html) with many positions more or less related to SICP.
 
-* [We Really Don't Know How to Compute](https://www.youtube.com/watch?v=O3tVctB_VSU), [The Role of Programming](https://www.youtube.com/watch?v=arMH5GjBwUQ), and [The Legacy of Computer Science](https://www.youtube.com/watch?v=6J1vRrozgBg) - Prof. Sussman's lectures given on various occasions, touching upon some of the themes from SICP.
+* [We Really Don't Know How to Compute](https://www.youtube.com/watch?v=O3tVctB_VSU), [The Role of Programming](https://www.youtube.com/watch?v=arMH5GjBwUQ), and [The Legacy of Computer Science](https://www.youtube.com/watch?v=6J1vRrozgBg) - lectures by Prof. Sussman's given on various occasions, touching upon some of the themes from SICP.
