@@ -62,9 +62,13 @@ background.
 
 On your first pass through the book, I would recommend trying to
 maintain a steady tempo, even if this means skipping some exercises or
-solving them without fully understanding all the details, otherwise
-you might loose motivation. You might do a second, third etc. run
-immediately, or months or years later. This is the [spiral
+solving them without fully understanding all the details. Ideas
+typically form a graph in which many nodes are mutally dependent, and
+so you should not expect to learn everything with a single linear run
+through any serious textbook, and by trying too hard to do this you
+might loose motivation. A second, third etc. run immediately, or
+months or years later will make everything make much more sense
+without anywhere as much effort. This is the [spiral
 approach](https://www.av8n.com/physics/spiral-approach.htm) to
 learning.
 
