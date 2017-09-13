@@ -25,7 +25,7 @@ Scheme](https://www.gnu.org/software/mit-scheme/) was used in the
 6.001 class for which SICP was written, but it does not see the kind
 of active development Racket does.
 
-## Additional resources for study
+## Additional resources
 
 * [Complete book contents online](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
